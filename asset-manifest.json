@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/student-management-system/static/css/main.7cab2c72.css",
-    "main.js": "/student-management-system/static/js/main.887f1c31.js",
-    "static/js/453.2496e058.chunk.js": "/student-management-system/static/js/453.2496e058.chunk.js",
-    "index.html": "/student-management-system/index.html",
-    "main.7cab2c72.css.map": "/student-management-system/static/css/main.7cab2c72.css.map",
-    "main.887f1c31.js.map": "/student-management-system/static/js/main.887f1c31.js.map",
-    "453.2496e058.chunk.js.map": "/student-management-system/static/js/453.2496e058.chunk.js.map"
+    "main.css": "/student-management/static/css/main.7cab2c72.css",
+    "main.js": "/student-management/static/js/main.eb8ac5b8.js",
+    "static/js/453.2496e058.chunk.js": "/student-management/static/js/453.2496e058.chunk.js",
+    "index.html": "/student-management/index.html",
+    "main.7cab2c72.css.map": "/student-management/static/css/main.7cab2c72.css.map",
+    "main.eb8ac5b8.js.map": "/student-management/static/js/main.eb8ac5b8.js.map",
+    "453.2496e058.chunk.js.map": "/student-management/static/js/453.2496e058.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cab2c72.css",
-    "static/js/main.887f1c31.js"
+    "static/js/main.eb8ac5b8.js"
   ]
 }
